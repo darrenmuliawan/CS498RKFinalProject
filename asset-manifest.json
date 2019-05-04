@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CS498RKFinalProject/static/css/main.3ea34238.chunk.css",
+    "main.css": "/CS498RKFinalProject/static/css/main.ef1073c2.chunk.css",
     "main.js": "/CS498RKFinalProject/static/js/main.fb8d9b65.chunk.js",
     "main.js.map": "/CS498RKFinalProject/static/js/main.fb8d9b65.chunk.js.map",
     "runtime~main.js": "/CS498RKFinalProject/static/js/runtime~main.bb432d48.js",
@@ -9,10 +9,10 @@
     "static/js/2.9f83b8f7.chunk.js": "/CS498RKFinalProject/static/js/2.9f83b8f7.chunk.js",
     "static/js/2.9f83b8f7.chunk.js.map": "/CS498RKFinalProject/static/js/2.9f83b8f7.chunk.js.map",
     "index.html": "/CS498RKFinalProject/index.html",
-    "precache-manifest.00e402f25fd68f47bf891cd151b16906.js": "/CS498RKFinalProject/precache-manifest.00e402f25fd68f47bf891cd151b16906.js",
+    "precache-manifest.4d5aaeb7a9e186fcaa67a83f11541351.js": "/CS498RKFinalProject/precache-manifest.4d5aaeb7a9e186fcaa67a83f11541351.js",
     "service-worker.js": "/CS498RKFinalProject/service-worker.js",
     "static/css/2.f27580f2.chunk.css.map": "/CS498RKFinalProject/static/css/2.f27580f2.chunk.css.map",
-    "static/css/main.3ea34238.chunk.css.map": "/CS498RKFinalProject/static/css/main.3ea34238.chunk.css.map",
+    "static/css/main.ef1073c2.chunk.css.map": "/CS498RKFinalProject/static/css/main.ef1073c2.chunk.css.map",
     "static/media/semantic.min.css": "/CS498RKFinalProject/static/media/outline-icons.ef60a4f6.woff",
     "static/media/found.png": "/CS498RKFinalProject/static/media/found.d0838330.png",
     "static/media/googleButton.png": "/CS498RKFinalProject/static/media/googleButton.9db907da.png",
