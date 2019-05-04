@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/CS498RKfinalproject/static/css/main.3ea34238.chunk.css",
-    "main.js": "/CS498RKfinalproject/static/js/main.fda0cf2c.chunk.js",
-    "main.js.map": "/CS498RKfinalproject/static/js/main.fda0cf2c.chunk.js.map",
-    "runtime~main.js": "/CS498RKfinalproject/static/js/runtime~main.25eea391.js",
-    "runtime~main.js.map": "/CS498RKfinalproject/static/js/runtime~main.25eea391.js.map",
-    "static/css/2.879eb91c.chunk.css": "/CS498RKfinalproject/static/css/2.879eb91c.chunk.css",
-    "static/js/2.e02eb70d.chunk.js": "/CS498RKfinalproject/static/js/2.e02eb70d.chunk.js",
-    "static/js/2.e02eb70d.chunk.js.map": "/CS498RKfinalproject/static/js/2.e02eb70d.chunk.js.map",
-    "index.html": "/CS498RKfinalproject/index.html",
-    "precache-manifest.c1f08ed7c021ef65e4bd271116f77524.js": "/CS498RKfinalproject/precache-manifest.c1f08ed7c021ef65e4bd271116f77524.js",
-    "service-worker.js": "/CS498RKfinalproject/service-worker.js",
-    "static/css/2.879eb91c.chunk.css.map": "/CS498RKfinalproject/static/css/2.879eb91c.chunk.css.map",
-    "static/css/main.3ea34238.chunk.css.map": "/CS498RKfinalproject/static/css/main.3ea34238.chunk.css.map",
-    "static/media/semantic.min.css": "/CS498RKfinalproject/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/found.png": "/CS498RKfinalproject/static/media/found.d0838330.png",
-    "static/media/googleButton.png": "/CS498RKfinalproject/static/media/googleButton.9db907da.png",
-    "static/media/treasure-map.png": "/CS498RKfinalproject/static/media/treasure-map.52596042.png"
+    "main.css": "/CS498RKFinalProject/static/css/main.3ea34238.chunk.css",
+    "main.js": "/CS498RKFinalProject/static/js/main.4cb784eb.chunk.js",
+    "main.js.map": "/CS498RKFinalProject/static/js/main.4cb784eb.chunk.js.map",
+    "runtime~main.js": "/CS498RKFinalProject/static/js/runtime~main.bb432d48.js",
+    "runtime~main.js.map": "/CS498RKFinalProject/static/js/runtime~main.bb432d48.js.map",
+    "static/css/2.f27580f2.chunk.css": "/CS498RKFinalProject/static/css/2.f27580f2.chunk.css",
+    "static/js/2.9f83b8f7.chunk.js": "/CS498RKFinalProject/static/js/2.9f83b8f7.chunk.js",
+    "static/js/2.9f83b8f7.chunk.js.map": "/CS498RKFinalProject/static/js/2.9f83b8f7.chunk.js.map",
+    "index.html": "/CS498RKFinalProject/index.html",
+    "precache-manifest.4207967e929797b03bf3a4842b287946.js": "/CS498RKFinalProject/precache-manifest.4207967e929797b03bf3a4842b287946.js",
+    "service-worker.js": "/CS498RKFinalProject/service-worker.js",
+    "static/css/2.f27580f2.chunk.css.map": "/CS498RKFinalProject/static/css/2.f27580f2.chunk.css.map",
+    "static/css/main.3ea34238.chunk.css.map": "/CS498RKFinalProject/static/css/main.3ea34238.chunk.css.map",
+    "static/media/semantic.min.css": "/CS498RKFinalProject/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/found.png": "/CS498RKFinalProject/static/media/found.d0838330.png",
+    "static/media/googleButton.png": "/CS498RKFinalProject/static/media/googleButton.9db907da.png",
+    "static/media/treasure-map.png": "/CS498RKFinalProject/static/media/treasure-map.52596042.png"
   }
 }
